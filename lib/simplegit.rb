@@ -20,4 +20,8 @@ class SimpleGit
     def another
 	puts "another"
     end 
+
+    def next
+	puts "next"
+    end
 end
